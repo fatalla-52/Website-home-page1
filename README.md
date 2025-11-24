@@ -19,6 +19,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+        border: 5px solid black 
     }
 
     .text-content {
@@ -34,10 +35,6 @@
         margin-top: 10px;
         font-size: 20px;
         font-weight: bold;
-    }
-
-    p {
-        line-height: 1.6;
     }
 
     .btn-group {
@@ -105,7 +102,7 @@
     </div>
 
     <div class="header-image">
-        <img src="Screenshot 2025- 11 - 16 181434.png" alt="Milk Tea">
+        <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
 </div>
 
@@ -132,7 +129,7 @@
     </div>
 
     <div class="section-image">
-        <img src="Screenshot 2025- 11 - 16 184030.jpg" alt="Ordering Area">
+        <img src="Screenshot 2025-11-16 184030.jpg" alt="Ordering Area">
     </div>
 </div>
 
