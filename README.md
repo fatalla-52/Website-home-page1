@@ -17,7 +17,6 @@
         margin: auto;
         padding: 40px 20px;
         display: flex;
-        justify-content: space-between;
         align-items: center;
         border: 5px solid black 
     }
@@ -82,9 +81,12 @@
 
 </head>
 <body>
-
-<div class="section">
-    <div class="menu">☰</div>
+    
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#learn">Learn</a>
+    <a href="#contact">Cnatact</a>
+  </nav>
 
     <div class="text-content">
         <h1>MILK TEA TOUR</h1>
