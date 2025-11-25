@@ -17,9 +17,7 @@
         margin: auto;
         padding: 40px 20px;
         display: flex;
-        justify-content: space-between;
         align-items: center;
-        align-text: center;
         border: 5px solid black 
     }
 
@@ -83,7 +81,7 @@
 
 </head>
 <body>
-    <div class="section">
+   
   <nav>
     <a href="#home">Home</a>
     <a href="#learn">Learn</a>
@@ -108,9 +106,6 @@
     <div class="header-image">
         <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
-
-<div class="section">
-    <div class="menu">☰</div>
 
     <div class="text-content">
         <p>Greet the customer politely.</p>
