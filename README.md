@@ -109,7 +109,10 @@
     <div class="header-image">
         <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
-</div>
+</div> 
+
+<div class="section">
+    <div class="menu">☰</div>
 
     <div class="text-content">
         <p>Greet the customer politely.</p>
@@ -131,7 +134,6 @@
     <div class="section-box">
         <img src="Screenshot 2025-11-16 184040.png" alt="ordering area">
     </div>
-</div>
 
 </body>
 </html>
