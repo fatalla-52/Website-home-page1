@@ -60,7 +60,7 @@
 
     .image-box {
         width: 40%;
-        text-align: right;
+        max-width: 50px;
     }
 
     .image-box img {
