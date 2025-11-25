@@ -134,6 +134,5 @@
     <div class="section-box">
         <img src="Screenshot 2025-11-16 184040.png" alt="ordering area">
     </div>
-
 </body>
 </html>
