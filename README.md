@@ -88,8 +88,12 @@
 </head>
 <body>   
     
-<div class="section">
-    <div class="menu">☰</div>
+<div class="Navigation">
+    <nav>
+     <a href="#home">Home</a>
+     <a href="#learn">Learn</a>
+     <a href="#contact">Contact</a>
+    </nav>
 
     <div class="text-content">
         <h1>MILK TEA TOUR</h1>
@@ -110,11 +114,6 @@
         <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
 </div>
-
-<hr>
-
-<div class="section">
-    <div class="menu">☰</div>
 
     <div class="text-content">
         <p>Greet the customer politely.</p>
