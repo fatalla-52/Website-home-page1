@@ -88,13 +88,9 @@
 </head>
 <body>   
     
-<div class="Navigation">
-    <nav>
-     <a href="#home">Home</a>
-     <a href="#learn">Learn</a>
-     <a href="#contact">Contact</a>
-    </nav>
-
+<div class="section">
+    <div class="menu">☰</div>  
+    
     <div class="text-content">
         <h1>MILK TEA TOUR</h1>
         <h2>Make yourself learn about Milk tea!</h2>
