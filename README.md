@@ -17,6 +17,7 @@
         margin: auto;
         padding: 40px 20px;
         display: flex;
+        justify-content: space-between;
         align-items: center;
         border: 5px solid black 
     }
