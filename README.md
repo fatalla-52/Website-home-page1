@@ -107,9 +107,6 @@
     <div class="header-image">
         <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
-</div>
-
-<hr>
 
 <div class="section">
     <div class="menu">☰</div>
