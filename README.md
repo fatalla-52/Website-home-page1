@@ -19,6 +19,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+        border: 4px solid black;
     }
 
     .text-content {
@@ -105,8 +106,7 @@
         </div>
     </div>
 
-    <div class="image-box">
-        <!-- Replace with your milk tea image -->
+    <div class="header-image">
         <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
 </div>
@@ -133,8 +133,7 @@
         </p>
     </div>
 
-    <div class="image-box">
-        <!-- Replace with your shop image -->
+    <div class="section-box">
         <img src="Screenshot 2025-11-16 184040.png" alt="ordering area">
     </div>
 </div>
