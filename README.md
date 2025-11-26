@@ -25,14 +25,13 @@
 
     .nav {
         position: absolute;
-        top: 20px;
+        top: 10px;
         right: 30px;
         font-size: 18px;
         font-weight: bold;
     }
 
     .nav a {
-        text-decoration: none;
         color: black;
         margin-left: 20px;
     }
