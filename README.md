@@ -25,7 +25,7 @@
 
     .nav {
         position: absolute;
-        top: 10px;
+        top: 5px;
         right: 30px;
         font-size: 18px;
         font-weight: bold;
