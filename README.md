@@ -9,7 +9,7 @@
     body {
         margin: 0;
         font-family: Arial, sans-serif;
-        background: #d6d1b8;
+        background: #D5CEAC;
     }
 
     .section {
@@ -20,12 +20,23 @@
         justify-content: space-between;
         align-items: center;
         border-bottom: 4px solid black;
+        position: relative;
     }
-    .nav  {
-        padding: 20px;
-        font-size: 22px;
+
+    .nav {
+        position: absolute;
+        top: 20px;
+        right: 30px;
+        font-size: 18px;
         font-weight: bold;
     }
+
+    .nav a {
+        text-decoration: none;
+        color: black;
+        margin-left: 20px;
+    }
+
     .text-content {
         width: 55%;
     }
@@ -66,38 +77,31 @@
         background: #2ecc4a;
     }
 
-    .image-box {
-        width: 40%;
-        text-align: right;
+    .header-image img {
+        width: 260px;
     }
 
-    .image-box img {
-        width: 100%;
-        max-width: 260px;
+    .section-image img {
+        width: 260px;
+        border-radius: 8px;
     }
 
     ul {
         margin-top: 10px;
     }
-
-    .menu {
-        position: absolute;
-        top: 20px;
-        right: 30px;
-        font-size: 28px;
-        cursor: pointer;
-    }
 </style>
 
 </head>
-<body>   
-    
-<div class="navigation">
-    <nav>
-      <a href="#home">Home</a>  
-      <a href="#learn">Learn</a>  
-      <a href="#contact">Contact</a>    
-    </nav>
+<body>
+
+<div class="section">
+
+
+    <div class="nav">
+        <a href="#">Home</a>
+        <a href="#">Learn</a>
+        <a href="#">Contact</a>
+    </div>
 
     <div class="text-content">
         <h1>MILK TEA TOUR</h1>
@@ -115,12 +119,17 @@
     </div>
 
     <div class="header-image">
-        <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
+        <img src="Screenshot 2025- 11 - 16 181434.png" alt="Milk Tea">
     </div>
-</div> 
+</div>
 
 <div class="section">
-    <div class="menu">☰</div>
+
+    <div class="nav">
+        <a href="#">Home</a>
+        <a href="#">Learn</a>
+        <a href="#">Contact</a>
+    </div>
 
     <div class="text-content">
         <p>Greet the customer politely.</p>
@@ -139,8 +148,10 @@
         </p>
     </div>
 
-    <div class="section-box">
-        <img src="Screenshot 2025-11-16 184040.png" alt="ordering area">
+    <div class="section-image">
+        <img src="Screenshot 2025- 11 - 16 184030.jpg" alt="Ordering Area">
     </div>
+</div>
+
 </body>
 </html>
