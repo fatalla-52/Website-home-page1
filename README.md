@@ -148,7 +148,7 @@
     </div>
 
     <div class="section-image">
-        <img src="Screenshot 2025-11-16 184040.jpg" alt="Ordering Area">
+        <img src="Screenshot 2025-11-16 184040.png" alt="Ordering Area">
     </div>
 </div>
 </body>
