@@ -21,7 +21,11 @@
         align-items: center;
         border-bottom: 4px solid black;
     }
-
+    .nav  {
+        padding: 20px;
+        font-size: 22px;
+        font-weight: bold;
+    }
     .text-content {
         width: 55%;
     }
@@ -88,9 +92,13 @@
 </head>
 <body>   
     
-<div class="section">
-    <div class="menu">☰</div>  
-    
+<div class="navigation">
+    <nav>
+      <a href="#home">Home</a>  
+      <a href="#learn">Learn</a>  
+      <a href="#contact">Contact</a>    
+    </nav>
+
     <div class="text-content">
         <h1>MILK TEA TOUR</h1>
         <h2>Make yourself learn about Milk tea!</h2>
