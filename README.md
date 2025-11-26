@@ -119,7 +119,7 @@
     </div>
 
     <div class="header-image">
-        <img src="Screenshot 2025- 11 - 16 181434.png" alt="Milk Tea">
+        <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
     </div>
 </div>
 
@@ -149,9 +149,8 @@
     </div>
 
     <div class="section-image">
-        <img src="Screenshot 2025- 11 - 16 184030.jpg" alt="Ordering Area">
+        <img src="Screenshot 2025-11-16 184040.jpg" alt="Ordering Area">
     </div>
 </div>
-
 </body>
 </html>
