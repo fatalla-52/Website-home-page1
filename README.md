@@ -19,7 +19,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border: 4px solid black;
+        border-bottom: 4px solid black;
     }
 
     .text-content {
