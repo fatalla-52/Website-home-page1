@@ -124,13 +124,7 @@
 
 <div class="section">
 
-    <div class="nav">
-        <a href="#">Home</a>
-        <a href="#">Learn</a>
-        <a href="#">Contact</a>
-    </div>
-
-    <div class="text-content">
+  <div class="text-content">
         <p>Greet the customer politely.</p>
         <p>Ask for their milk tea choice:</p>
 
