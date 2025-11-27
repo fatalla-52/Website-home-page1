@@ -31,11 +31,6 @@
         font-weight: bold;
     }
 
-    .nav a {
-        color: black;
-        margin-left: 20px;
-    }
-
     .text-content {
         width: 55%;
     }
