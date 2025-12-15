@@ -169,7 +169,7 @@
         <p>Confirm their order if you took it correctly.</p>
     </div>
 
-    <img src="Screenshot 2025-11-16 184040.jpg" alt="Ordering Area">
+    <img src="Screenshot 2025-11-16 184040.png" alt="Ordering Area">
 </div>
 
 </body>
